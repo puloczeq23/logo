@@ -1,0 +1,16 @@
+#logo {
+    background-color: rgb(252, 0, 117);
+    color: white;
+    font: 50px Arial;
+    text-align: center;
+    text-shadow: silver 4px 4px 8px;
+    border: double silver;
+    padding: 15px;
+    letter-spacing: 15px;}
+    body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    margin: 0;
+    background-color: #f0f0f0;}
